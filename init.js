@@ -29,3 +29,7 @@
 
 // 使用swiper swiper4不兼容IE9+
 // npm install swiper@3 --save-dev
+
+
+//----
+//npm i animate.css --save-dev   进入/离开 & 列表过渡 https://www.w3cplus.com/vue/vue-animation.html 动画文档：https://www.cnblogs.com/rlann/p/7192535.html
