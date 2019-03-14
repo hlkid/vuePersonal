@@ -1,4 +1,4 @@
-//vue初始化项目
+﻿//vue初始化项目
 //vue init webpack name(eslint,ete，unit选N)
 
 // IE兼容
@@ -27,9 +27,23 @@
 // 使用icon
 // npm install vue-svg-icon --save-dev
 
+//使用axios
+//1、npm install axios --save-dev
+//2、npm install -g es6-promise --save-dev   //兼容ie
+//3、main.js引入import promise from 'es6-promise';promise.polyfill();
+
 // 使用swiper swiper4不兼容IE9+
 // npm install swiper@3 --save-dev
 
 
 //----
-//npm i animate.css --save-dev   进入/离开 & 列表过渡 https://www.w3cplus.com/vue/vue-animation.html 动画文档：https://www.cnblogs.com/rlann/p/7192535.html
+//npm i animate.css --save-dev   
+//进入/离开 & 列表过渡 https://www.w3cplus.com/vue/vue-animation.html 
+//动画文档：https://www.cnblogs.com/rlann/p/7192535.html
+
+//------------------------安利一些常用的组件库---------------------------------------
+
+//这个是移动端的组件库：https://doc.vux.li/zh-CN/
+//PC端Vue组件库：iView官网：https://www.iviewui.com/ ； Element官网：http://element.eleme.io/#/zh-CN
+
+//这个是CSS效果图网站：https://codepen.io/pens/
